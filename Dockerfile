@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM htmlvalidate/chrome
 ADD . /var/www/html
